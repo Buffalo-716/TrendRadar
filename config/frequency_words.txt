@@ -1,113 +1,56 @@
-胖东来
-于东来
+# --- 1. Penny Stocks & Market Movers (High Volatility) ---
+Penny Stock
+Microcap
+OTC
+仙股
+Low Float
+Short Squeeze
+美股 +暴涨
+美股 +暴跌
+Stock Alert
+Bankruptcy
 
-DeepSeek
-梁文锋
+# --- 2. SC Dept of Corrections (SCDC) ---
+South Carolina +Prison
+South Carolina +Inmate
+SCDC
+Contraband
+Phone Jammer
+南卡罗来纳 +监狱
+Prison Riot
+Correction Officer
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+# --- 3. Buffalo NY (Local & Urgent) ---
+Buffalo NY
+Buffalo +Police
+Erie County
+Western New York
+布法罗
+水牛城
+Buffalo +Snow
+Buffalo +Shooting
 
-比亚迪
-王传福
+# --- 4. Stock Insider & Breaking Finance ---
+Insider Trading
+SEC Filing
+Merger
+Acquisition
+Earnings Surprise
+Guidance
+内幕交易
+股市快讯
+Trading Halt
+FDA Approval
 
-大疆
-DJI
+# --- 5. US Military (Live Combat/Strikes) ---
+US Military
+Airstrike
+Pentagon
+Combat
+US Navy
+USAF
+美军
+空袭
+Military Operation
+Warzone
 
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
