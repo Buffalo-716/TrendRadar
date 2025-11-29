@@ -1,56 +1,58 @@
-# --- 1. Penny Stocks & Market Movers (High Volatility) ---
-Penny Stock
-Microcap
-OTC
-仙股
-Low Float
-Short Squeeze
-美股 +暴涨
-美股 +暴跌
-Stock Alert
-Bankruptcy
-
-# --- 2. SC Dept of Corrections (SCDC) ---
-South Carolina +Prison
-South Carolina +Inmate
-SCDC
-Contraband
-Phone Jammer
-南卡罗来纳 +监狱
-Prison Riot
-Correction Officer
-
-# --- 3. Buffalo NY (Local & Urgent) ---
-Buffalo NY
-Buffalo +Police
-Erie County
-Western New York
-布法罗
-水牛城
-Buffalo +Snow
-Buffalo +Shooting
-
-# --- 4. Stock Insider & Breaking Finance ---
-Insider Trading
-SEC Filing
-Merger
-Acquisition
-Earnings Surprise
-Guidance
-内幕交易
-股市快讯
-Trading Halt
-FDA Approval
-
-# --- 5. US Military (Live Combat/Strikes) ---
+# --- 1. USA Military (Combat & Strikes) ---
 US Military
-Airstrike
 Pentagon
-Combat
+Airstrike
 US Navy
-USAF
+US Air Force
 美军
 空袭
-Military Operation
+航母
+Military Conflict
 Warzone
 
+# --- 2. Advanced AI (Breaking Tech) ---
+OpenAI
+ChatGPT
+Google Gemini
+DeepMind
+LLM
+AGI
+Nvidia
+Artificial Intelligence
+人工智能
+大模型
+
+# --- 3. Bitcoin & Crypto Prices ---
+Bitcoin
+BTC
+Crypto
+Ethereum
+Blockchain
+比特币
+虚拟货币
+Bull Market
+Bear Market
+
+# --- 4. US Stock Market Trends ---
+US Stock
+S&P 500
+Nasdaq
+Dow Jones
+Fed Interest Rate
+美股
+纳斯达克
+道琼斯
+Earnings Report
+Stock Crash
+
+# --- 5. Android Game News ---
+Android Game
+Mobile Game
+Google Play
+APK
+Modded
+手游
+安卓游戏
+Gaming News
+New Release
+Beta Test
